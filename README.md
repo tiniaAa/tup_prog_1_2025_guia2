@@ -1,1 +1,3 @@
-# tup_prog_1_2025_guia2
+# Guía 2. Introducción a la programación
+
+[Enunciado](https://docs.google.com/document/d/1nenbVUAfQ4cntK6nylXSdxcaxnZilamH/preview)
